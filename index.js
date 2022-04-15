@@ -24,6 +24,11 @@ app.listen(3000, () => {
   console.log("Server has started !");
 });
 
+// command git
+// npm git init
+// git add. ou git add nomDuFichier
+// git commit -m "nomDuCommit"
+
 // command line github
 
 // git init
