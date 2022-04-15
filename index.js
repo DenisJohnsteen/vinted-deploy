@@ -23,3 +23,12 @@ app.use(offerRoutes);
 app.listen(3000, () => {
   console.log("Server has started !");
 });
+
+// command line github
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/DenisJohnsteen/vinted-deploy.git
+// git push -u origin main
