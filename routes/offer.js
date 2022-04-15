@@ -160,6 +160,4 @@ router.get("/offer/:id", async (req, res) => {
   }
 });
 
-console.log("toto");
-
 module.exports = router;
